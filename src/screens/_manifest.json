@@ -1,0 +1,73 @@
+{
+ "app": "Jersey Shop UI Kit",
+ "start": "home",
+ "screens": [
+  {
+   "slug": "cart",
+   "name": "cart",
+   "page": "Screens",
+   "w": 414,
+   "h": 896,
+   "elements": 31,
+   "links": 2
+  },
+  {
+   "slug": "checkout",
+   "name": "checkout",
+   "page": "Screens",
+   "w": 414,
+   "h": 896,
+   "elements": 31,
+   "links": 2
+  },
+  {
+   "slug": "product-description",
+   "name": "product description",
+   "page": "Screens",
+   "w": 414,
+   "h": 896,
+   "elements": 23,
+   "links": 3
+  },
+  {
+   "slug": "home",
+   "name": "Home",
+   "page": "Screens",
+   "w": 414,
+   "h": 896,
+   "elements": 31,
+   "links": 5
+  },
+  {
+   "slug": "search",
+   "name": "Search",
+   "page": "Screens",
+   "w": 414,
+   "h": 896,
+   "elements": 58,
+   "links": 2
+  },
+  {
+   "slug": "mennu",
+   "name": "Mennu",
+   "page": "Screens",
+   "w": 414,
+   "h": 896,
+   "elements": 63,
+   "links": 2
+  },
+  {
+   "slug": "category-women-s",
+   "name": "Category - women's",
+   "page": "Screens",
+   "w": 414,
+   "h": 896,
+   "elements": 37,
+   "links": 3
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "barlow"
+ ]
+}
